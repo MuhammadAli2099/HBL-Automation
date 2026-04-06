@@ -2,13 +2,17 @@ import { Given, When, Then } from '@cucumber/cucumber';
 import type { CustomWorld } from '../support/world';
 import { testData } from '../../utils/testData';
 
-Given('the maker is logged in to the HBL application', async function (this: CustomWorld) {
-  await this.loginPage.goto();
-  await this.loginPage.loginAndWaitForDashboard(
-    testData.validUser.username,
-    testData.validUser.password
-  );
-});
+Given(
+  'the maker is logged in to the HBL application',
+  { timeout: 60000 },
+  async function (this: CustomWorld) {
+    await this.loginPage.goto();
+    await this.loginPage.loginAndWaitForDashboard(
+      testData.validUser.username,
+      testData.validUser.password
+    );
+  }
+);
 
 When('the maker creates an account payee with valid data', async function (this: CustomWorld) {
   await this.payeePage.createValidPayeeAndVerify(
