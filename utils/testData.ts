@@ -20,4 +20,9 @@ export const testData = {
     invalidEmail: 'invalid-email',
     blankValue: '',
   },
+  payment: {
+  savedPayeeName: process.env.PAYMENT_SAVED_PAYEE_NAME || 'Ali',
+  validAmount: process.env.PAYMENT_VALID_AMOUNT || '1000',
+  validRemarks: process.env.PAYMENT_VALID_REMARKS || 'Automation payment',
+},
 };

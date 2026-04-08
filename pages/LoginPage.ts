@@ -99,6 +99,53 @@ export class LoginPage {
     await expect(this.loginErrorMessage).toBeVisible({ timeout: 10000 });
   }
 
+  async openSideMenu() {
+    const sideMenuCandidates: Locator[] = [
+      this.page.locator('span.oj-ux-ico-menu').first(),
+      this.page.locator('[class*="oj-ux-ico-menu"]').first(),
+      this.page.locator('button[aria-label*="menu" i]').first(),
+      this.page.locator('[title*="menu" i]').first(),
+    ];
+
+    for (const locator of sideMenuCandidates) {
+      try {
+        if (await locator.isVisible({ timeout: 3000 })) {
+          await locator.click({ timeout: 5000 });
+          await this.page.waitForTimeout(1500);
+          return;
+        }
+      } catch {
+        // try next
+      }
+    }
+
+    throw new Error('Side menu button was not found or not clickable.');
+  }
+
+  async openPayments() {
+    const paymentCandidates: Locator[] = [
+      this.page.locator('span.oj-navigationlist-item-label').filter({ hasText: /payments/i }).first(),
+      this.page.getByText(/^Payments$/i).first(),
+      this.page.locator('a:has-text("Payments"), button:has-text("Payments"), span:has-text("Payments")').first(),
+      this.page.locator('[title*="Payments" i], [aria-label*="Payments" i]').first(),
+    ];
+
+    for (const locator of paymentCandidates) {
+      try {
+        if (await locator.isVisible({ timeout: 5000 })) {
+          await locator.click({ timeout: 5000 });
+          await this.page.waitForTimeout(2500);
+          return;
+        }
+      } catch {
+        // try next
+      }
+    }
+
+    await this.page.screenshot({ path: 'payments-navigation-failure.png', fullPage: true });
+    throw new Error('Payments menu was not found or not clickable.');
+  }
+
   async logout() {
     const menuCandidates: Locator[] = [
       this.page.locator('oj-button[title*="User"], oj-button[title*="Profile"]').first(),
