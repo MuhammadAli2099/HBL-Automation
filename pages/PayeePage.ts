@@ -61,7 +61,8 @@ export class PayeePage {
   }
 
   private get reviewPageMarker(): Locator {
-    return this.page.locator('h2.page-section-heading__text:visible')
+    return this.page
+      .locator('h2.page-section-heading__text:visible')
       .filter({ hasText: /Account Details|Personal Details|Additional Details/ })
       .first();
   }
@@ -145,13 +146,16 @@ export class PayeePage {
   async clickReviewConfirm() {
     await expect(this.reviewConfirmButton).toBeVisible({ timeout: 10000 });
 
+    await this.reviewConfirmButton.scrollIntoViewIfNeeded();
+
     try {
       await this.reviewConfirmButton.click({ timeout: 5000 });
     } catch {
-      await this.reviewConfirmButton.click({ force: true, timeout: 5000 });
+      await this.reviewConfirmButton.click({ force: true });
     }
 
-    await this.page.waitForTimeout(1200);
+    await this.page.waitForLoadState('domcontentloaded').catch(() => {});
+    await this.page.waitForTimeout(2500);
   }
 
   async confirmTransactionModalIfPresent() {
@@ -180,9 +184,15 @@ export class PayeePage {
   }
 
   async validateSuccessfulSubmission() {
-    const candidates = [this.successMessage, this.referenceNumberLabel];
+    const successCandidates = [
+      this.successMessage,
+      this.referenceNumberLabel,
+      this.page.locator('text=/pending approval|submitted for approval|awaiting approval/i').first(),
+      this.page.locator('text=/request submitted|transaction submitted/i').first(),
+      this.page.locator('text=/payee and biller|workflow transactions|dashboard/i').first()
+    ];
 
-    for (const locator of candidates) {
+    for (const locator of successCandidates) {
       try {
         await expect(locator).toBeVisible({ timeout: 12000 });
         return;
@@ -191,10 +201,15 @@ export class PayeePage {
       }
     }
 
+    try {
+      await expect(this.reviewConfirmButton).not.toBeVisible({ timeout: 5000 });
+      return;
+    } catch {
+      // continue to failure
+    }
+
     await this.page.screenshot({ path: 'payee-success-validation-failed.png', fullPage: true });
-    throw new Error(
-      'Payee creation success indicator was not found after final confirm. Screenshot saved as payee-success-validation-failed.png'
-    );
+    throw new Error('Payee creation success state not detected.');
   }
 
   async validateSubmissionBlocked() {

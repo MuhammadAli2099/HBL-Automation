@@ -113,7 +113,7 @@ const html = `
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Automation Executive Report</title>
+  <title>HBL Automation Report</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -293,8 +293,8 @@ const html = `
 <body>
   <div class="container">
     <div class="hero">
-      <h1>Automation Executive Report</h1>
-      <p>Login and Add Account Payee validation coverage with positive and negative scenarios</p>
+      <h1>HBL Automation Report</h1>
+      <p>HBL Portal Core Functionalities Test Cases Automation</p>
     </div>
 
     <div class="cards">
@@ -442,9 +442,12 @@ function prettifySuiteName(raw) {
     .replace(/\s+/g, ' ')
     .trim();
 
-  if (/login/i.test(text)) return 'Login Validation';
-  if (/payee|beneficiary/i.test(text)) return 'Add Account Payee Validation';
+  if (/login/i.test(text)) return 'Corporate Login';
+  if (/payee|beneficiary/i.test(text)) return 'Payee Addition';
   if (/auth/i.test(text)) return 'Login Validation';
+  if (/billPayments/i.test(text)) return 'Bill Payment';
+  if (/accounts/i.test(text)) return 'Account Statement';
+  if (/payments/i.test(text)) return 'Fund Transfer';
 
   return toTitleCase(text || 'General Validation');
 }

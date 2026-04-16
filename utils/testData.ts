@@ -24,5 +24,8 @@ export const testData = {
   savedPayeeName: process.env.PAYMENT_SAVED_PAYEE_NAME || 'Ali',
   validAmount: process.env.PAYMENT_VALID_AMOUNT || '1000',
   validRemarks: process.env.PAYMENT_VALID_REMARKS || 'Automation payment',
+  newPayeeAccount: process.env.NEW_PAYEE_ACCOUNT || '1234567890123456',
+  newPayeeNickname: process.env.NEW_PAYEE_NICKNAME || 'NewPayeeTest',
+  newPayeeEmail: process.env.NEW_PAYEE_EMAIL || 'test@mail.com',
 },
 };

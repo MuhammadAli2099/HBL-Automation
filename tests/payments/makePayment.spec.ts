@@ -3,7 +3,7 @@ import { LoginPage } from '../../pages/LoginPage';
 import { PaymentPage } from '../../pages/PaymentPage';
 import { testData } from '../../utils/testData';
 
-test.describe('Payments - Saved Payee', () => {
+test.describe('Payments Feature', () => {
   test.beforeEach(async ({ page }) => {
     const loginPage = new LoginPage(page);
     const paymentPage = new PaymentPage(page);
@@ -22,7 +22,8 @@ test.describe('Payments - Saved Payee', () => {
     await loginPage.logout().catch(() => {});
   });
 
-  test('Valid payment to saved payee', async ({ page }) => {
+  // Existing working saved-payee flow preserved
+  test('Valid payment using Saved Payee', async ({ page }) => {
     const paymentPage = new PaymentPage(page);
 
     await paymentPage.makeSavedPayeePayment(
@@ -82,6 +83,51 @@ test.describe('Payments - Saved Payee', () => {
     await paymentPage.enterAmount('abc');
     await paymentPage.enterRemarks(testData.payment.validRemarks);
     await paymentPage.clickProceedToPay();
+
+    await paymentPage.validateProceedBlocked();
+  });
+
+  // New payee flow added without touching saved-payee behavior
+  test('Valid payment using New Payee', async ({ page }) => {
+    const paymentPage = new PaymentPage(page);
+
+    await paymentPage.makeNewPayeePayment(
+      testData.payment.newPayeeAccount,
+      testData.payment.newPayeeNickname,
+      testData.payment.newPayeeEmail,
+      testData.payment.validAmount,
+      testData.payment.validRemarks
+    );
+
+    await paymentPage.validateProceedWorked();
+  });
+
+  test('New Payee - blank account number', async ({ page }) => {
+    const paymentPage = new PaymentPage(page);
+
+    await paymentPage.clickMakePayment();
+    await paymentPage.clickNewPayee();
+    await paymentPage.enterNewPayeeDetails(
+      '',
+      testData.payment.newPayeeNickname,
+      testData.payment.newPayeeEmail
+    );
+    await paymentPage.clickProceedAfterNewPayee();
+
+    await paymentPage.validateProceedBlocked();
+  });
+
+  test('New Payee - invalid email format', async ({ page }) => {
+    const paymentPage = new PaymentPage(page);
+
+    await paymentPage.clickMakePayment();
+    await paymentPage.clickNewPayee();
+    await paymentPage.enterNewPayeeDetails(
+      testData.payment.newPayeeAccount,
+      testData.payment.newPayeeNickname,
+      'invalid-email'
+    );
+    await paymentPage.clickProceedAfterNewPayee();
 
     await paymentPage.validateProceedBlocked();
   });

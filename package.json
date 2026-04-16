@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "Playwright automation project",
   "main": "index.js",
+  
   "scripts": {
     "test": "playwright test",
     "test:headed": "playwright test --headed",
     "test:manager": "playwright test && node scripts/generate-manager-report.js",
-    "show:report": "playwright show-report"
+    "show:report": "playwright show-report",
+    "test:bill-payment-history": "playwright test tests/billPayments/billPaymentHistory.spec.ts"
   },
   "keywords": [],
   "author": "",
