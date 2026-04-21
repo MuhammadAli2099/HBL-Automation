@@ -54,93 +54,36 @@ export class InitiateFinanceRequestPage {
     return this.page.getByRole('img', { name: /corpmaker2/i }).first();
   }
 
-  get back(): Locator {
-    return this.page.getByLabel(/Back/i).first();
+  get referenceNumber2104a7664894(): Locator {
+    return this.page.getByLabel(/Reference Number
+2104A7664894/i).first();
   }
 
-  get back2(): Locator {
-    return this.page.getByRole('button', { name: /Back/i }).first();
+  get referenceNumber2104a76648942(): Locator {
+    return this.page.getByRole('presentation', { name: /Reference Number
+2104A7664894/i }).first();
   }
 
-  get stages(): Locator {
-    return this.page.getByRole('tablist', { name: /Stages/i }).first();
+  get referenceNumber(): Locator {
+    return this.page.getByRole('textbox', { name: /Reference Number/i }).first();
   }
 
-  get generalDetailsApplicantAndFinancingDetailsAmountAndAdditionalDetailsAttachments(): Locator {
-    return this.page.getByRole('presentation', { name: /General Details
-Applicant and Financing Details
-Amount and Additional Details
-Attachments/i }).first();
+  get statusPendingForApproval(): Locator {
+    return this.page.getByLabel(/Status
+Pending for Approval/i).first();
   }
 
-  get generalDetailsApplicantAndFinancingDetailsAmountAndAdditionalDetailsAttachments2(): Locator {
-    return this.page.getByRole('presentation', { name: /General Details
-Applicant and Financing Details
-Amount and Additional Details
-Attachments/i }).first();
+  get statusPendingForApproval2(): Locator {
+    return this.page.getByRole('presentation', { name: /Status
+Pending for Approval/i }).first();
   }
 
-  get generalDetailsApplicantAndFinancingDetailsAmountAndAdditionalDetailsAttachments3(): Locator {
-    return this.page.getByRole('presentation', { name: /General Details
-Applicant and Financing Details
-Amount and Additional Details
-Attachments/i }).first();
+  get status(): Locator {
+    return this.page.getByRole('textbox', { name: /Status/i }).first();
   }
 
-  get generalDetails(): Locator {
-    return this.page.getByRole('presentation', { name: /General Details/i }).first();
-  }
-
-  get clickHereForGeneralDetails(): Locator {
-    return this.page.getByRole('tab', { name: /Click here for General Details/i }).first();
-  }
-
-  get applicantAndFinancingDetails(): Locator {
-    return this.page.getByRole('presentation', { name: /Applicant and Financing Details/i }).first();
-  }
-
-  get clickHereForApplicantAndFinancingDetails(): Locator {
-    return this.page.getByRole('tab', { name: /Click here for Applicant and Financing Details/i }).first();
-  }
-
-  get amountAndAdditionalDetails(): Locator {
-    return this.page.getByRole('presentation', { name: /Amount and Additional Details/i }).first();
-  }
-
-  get clickHereForAmountAndAdditionalDetails(): Locator {
-    return this.page.getByRole('tab', { name: /Click here for Amount and Additional Details/i }).first();
-  }
-
-  get attachments(): Locator {
-    return this.page.getByRole('presentation', { name: /Attachments/i }).first();
-  }
-
-  get clickHereForAttachments(): Locator {
-    return this.page.getByRole('tab', { name: /Click here for Attachments/i }).first();
-  }
-
-  get next(): Locator {
-    return this.page.getByLabel(/Next/i).first();
-  }
-
-  get next2(): Locator {
-    return this.page.getByRole('button', { name: /Next/i }).first();
-  }
-
-  get cancel(): Locator {
-    return this.page.getByLabel(/Cancel/i).first();
-  }
-
-  get cancel2(): Locator {
-    return this.page.getByRole('button', { name: /Cancel/i }).first();
-  }
-
-  get back3(): Locator {
-    return this.page.getByLabel(/Back/i).first();
-  }
-
-  get back4(): Locator {
-    return this.page.getByRole('button', { name: /Back/i }).first();
+  get home(): Locator {
+    return this.page.getByRole('link', { name: /Home/i }).first();
   }
 
   async waitForScreen(): Promise<void> {
