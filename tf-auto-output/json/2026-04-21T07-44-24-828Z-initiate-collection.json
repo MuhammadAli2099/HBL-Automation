@@ -1,0 +1,962 @@
+{
+  "capturedAt": "2026-04-21T07:44:27.188Z",
+  "title": "Initiate Collection - HBL",
+  "url": "http://172.20.3.113:7777/home.html?ojr=collection-navigation%3Bmodule%3Dcollection",
+  "screenName": "Initiate Collection",
+  "fieldCount": 35,
+  "fields": [
+    {
+      "index": 0,
+      "tag": "a",
+      "role": "link",
+      "label": "Skip to main content",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Skip to main content",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "link",
+          "name": "Skip to main content"
+        },
+        "byLabel": "Skip to main content",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Skip to main content",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 1,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Toggle Menu",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Toggle Menu",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Toggle Menu",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "role": "button",
+      "label": "Open Menu",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Open Menu",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Open Menu"
+        },
+        "byLabel": "Open Menu",
+        "byAriaLabel": "Open Menu",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 3,
+      "tag": "a",
+      "role": "link",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 4,
+      "tag": "div",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "searchInputContainer_headerSearch",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "searchInputContainer_headerSearch",
+        "byName": null
+      }
+    },
+    {
+      "index": 5,
+      "tag": "span",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 6,
+      "tag": "div",
+      "role": "combobox",
+      "label": "Search Transaction",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search Transaction",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "combobox",
+          "name": "Search Transaction"
+        },
+        "byLabel": "Search Transaction",
+        "byAriaLabel": "Search Transaction",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 7,
+      "tag": "input",
+      "role": "textbox",
+      "label": "Search Transaction",
+      "type": "text",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search Transaction",
+      "placeholder": "Search",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Search Transaction"
+        },
+        "byLabel": "Search Transaction",
+        "byAriaLabel": "Search Transaction",
+        "byPlaceholder": "Search",
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 8,
+      "tag": "oj-button",
+      "role": "",
+      "label": "99+",
+      "type": "",
+      "id": "mailbox-holder",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "99+",
+      "text": "99+",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "99+",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "99+",
+        "byId": "mailbox-holder",
+        "byName": null
+      }
+    },
+    {
+      "index": 9,
+      "tag": "button",
+      "role": "button",
+      "label": "99+",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "99+",
+      "placeholder": "",
+      "title": "",
+      "text": "99+",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "99+"
+        },
+        "byLabel": "99+",
+        "byAriaLabel": "99+",
+        "byPlaceholder": null,
+        "byText": "99+",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 10,
+      "tag": "button",
+      "role": "button",
+      "label": "CM",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "CM",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "CM"
+        },
+        "byLabel": "CM",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "CM",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 11,
+      "tag": "oj-avatar",
+      "role": "img",
+      "label": "corpmaker2",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "corpmaker2",
+      "placeholder": "",
+      "title": "corpmaker2",
+      "text": "CM",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "img",
+          "name": "corpmaker2"
+        },
+        "byLabel": "corpmaker2",
+        "byAriaLabel": "corpmaker2",
+        "byPlaceholder": null,
+        "byText": "CM",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 12,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Back",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 13,
+      "tag": "button",
+      "role": "button",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Back"
+        },
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 14,
+      "tag": "oj-navigation-list",
+      "role": "tablist",
+      "label": "Collection options",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Collection options",
+      "placeholder": "",
+      "title": "",
+      "text": "Templates\nDrafts",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tablist",
+          "name": "Collection options"
+        },
+        "byLabel": "Collection options",
+        "byAriaLabel": "Collection options",
+        "byPlaceholder": null,
+        "byText": "Templates\nDrafts",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 15,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Templates\nDrafts",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Templates\nDrafts",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Templates\nDrafts"
+        },
+        "byLabel": "Templates\nDrafts",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Templates\nDrafts",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 16,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Templates\nDrafts",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Templates\nDrafts",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Templates\nDrafts"
+        },
+        "byLabel": "Templates\nDrafts",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Templates\nDrafts",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 17,
+      "tag": "ul",
+      "role": "presentation",
+      "label": "Templates\nDrafts",
+      "type": "",
+      "id": "ui-id-1090",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Templates\nDrafts",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Templates\nDrafts"
+        },
+        "byLabel": "Templates\nDrafts",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Templates\nDrafts",
+        "byId": "ui-id-1090",
+        "byName": null
+      }
+    },
+    {
+      "index": 18,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Templates",
+      "type": "",
+      "id": "TEMPLATES",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Templates",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Templates"
+        },
+        "byLabel": "Templates",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Templates",
+        "byId": "TEMPLATES",
+        "byName": null
+      }
+    },
+    {
+      "index": 19,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for Templates",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for Templates",
+      "text": "Templates",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for Templates"
+        },
+        "byLabel": "Click here for Templates",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Templates",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 20,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Drafts",
+      "type": "",
+      "id": "DRAFTS",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Drafts",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Drafts"
+        },
+        "byLabel": "Drafts",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Drafts",
+        "byId": "DRAFTS",
+        "byName": null
+      }
+    },
+    {
+      "index": 21,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for Drafts",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for Drafts",
+      "text": "Drafts",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for Drafts"
+        },
+        "byLabel": "Click here for Drafts",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Drafts",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 22,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Initiate Collection",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Initiate Collection",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Initiate Collection",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Initiate Collection",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 23,
+      "tag": "button",
+      "role": "button",
+      "label": "Initiate Collection",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Initiate Collection",
+      "placeholder": "",
+      "title": "",
+      "text": "Initiate Collection",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Initiate Collection"
+        },
+        "byLabel": "Initiate Collection",
+        "byAriaLabel": "Initiate Collection",
+        "byPlaceholder": null,
+        "byText": "Initiate Collection",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 24,
+      "tag": "div",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "searchInputContainer_fwkSearchBox",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "searchInputContainer_fwkSearchBox",
+        "byName": null
+      }
+    },
+    {
+      "index": 25,
+      "tag": "span",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 26,
+      "tag": "input",
+      "role": "textbox",
+      "label": "Search...",
+      "type": "text",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search...",
+      "placeholder": "Search",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Search..."
+        },
+        "byLabel": "Search...",
+        "byAriaLabel": "Search...",
+        "byPlaceholder": "Search",
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 27,
+      "tag": "oj-buttonset-one",
+      "role": "toolbar",
+      "label": "thumbView\nlistView",
+      "type": "",
+      "id": "viewButtonSet9171559",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "thumbView\nlistView",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "toolbar",
+          "name": "thumbView\nlistView"
+        },
+        "byLabel": "thumbView\nlistView",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "thumbView\nlistView",
+        "byId": "viewButtonSet9171559",
+        "byName": null
+      }
+    },
+    {
+      "index": 28,
+      "tag": "input",
+      "role": "radio",
+      "label": "thumbView",
+      "type": "radio",
+      "id": "ui-id-1092",
+      "name": "_n_ui-id-1092",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "radio",
+          "name": "thumbView"
+        },
+        "byLabel": "thumbView",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "ui-id-1092",
+        "byName": "_n_ui-id-1092"
+      }
+    },
+    {
+      "index": 29,
+      "tag": "input",
+      "role": "radio",
+      "label": "listView",
+      "type": "radio",
+      "id": "ui-id-1093",
+      "name": "_n_ui-id-1092",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "radio",
+          "name": "listView"
+        },
+        "byLabel": "listView",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "ui-id-1093",
+        "byName": "_n_ui-id-1092"
+      }
+    },
+    {
+      "index": 30,
+      "tag": "ul",
+      "role": "grid",
+      "label": "Template List View",
+      "type": "",
+      "id": "ui-id-1099",
+      "name": "",
+      "ariaLabel": "Template List View",
+      "placeholder": "",
+      "title": "",
+      "text": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424\nFarhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "grid",
+          "name": "Template List View"
+        },
+        "byLabel": "Template List View",
+        "byAriaLabel": "Template List View",
+        "byPlaceholder": null,
+        "byText": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424\nFarhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+        "byId": "ui-id-1099",
+        "byName": null
+      }
+    },
+    {
+      "index": 31,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424\nFarhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424\nFarhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424\nFarhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424"
+        },
+        "byLabel": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424\nFarhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424\nFarhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 32,
+      "tag": "ul",
+      "role": "row",
+      "label": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424\nFarhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424\nFarhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "row",
+          "name": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424\nFarhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424"
+        },
+        "byLabel": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424\nFarhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424\nFarhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 33,
+      "tag": "li",
+      "role": "gridcell",
+      "label": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+      "type": "",
+      "id": "ui-id-1100",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "gridcell",
+          "name": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424"
+        },
+        "byLabel": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Farhan template test public\nUpdated on : 2/11/2026\nPublic\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+        "byId": "ui-id-1100",
+        "byName": null
+      }
+    },
+    {
+      "index": 34,
+      "tag": "li",
+      "role": "gridcell",
+      "label": "Farhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+      "type": "",
+      "id": "ui-id-1101",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Farhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "gridcell",
+          "name": "Farhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424"
+        },
+        "byLabel": "Farhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Farhan template private\nUpdated on : 2/11/2026\nPrivate\nDrawee Name\nProduct\nShehzad ul hassan\nESCP\nCreated By\nDe174cf3d19412d38d7da69914b36424",
+        "byId": "ui-id-1101",
+        "byName": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,772 @@
+{
+  "capturedAt": "2026-04-21T07:40:47.976Z",
+  "title": "HBL",
+  "url": "http://172.20.3.113:7777/home.html?ojr=view-claims%3Bmodule%3Dguarantee",
+  "screenName": "HBL",
+  "fieldCount": 28,
+  "fields": [
+    {
+      "index": 0,
+      "tag": "a",
+      "role": "link",
+      "label": "Skip to main content",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Skip to main content",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "link",
+          "name": "Skip to main content"
+        },
+        "byLabel": "Skip to main content",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Skip to main content",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 1,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Toggle Menu",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Toggle Menu",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Toggle Menu",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "role": "button",
+      "label": "Open Menu",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Open Menu",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Open Menu"
+        },
+        "byLabel": "Open Menu",
+        "byAriaLabel": "Open Menu",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 3,
+      "tag": "a",
+      "role": "link",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 4,
+      "tag": "div",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "searchInputContainer_headerSearch",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "searchInputContainer_headerSearch",
+        "byName": null
+      }
+    },
+    {
+      "index": 5,
+      "tag": "span",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 6,
+      "tag": "div",
+      "role": "combobox",
+      "label": "Search Transaction",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search Transaction",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "combobox",
+          "name": "Search Transaction"
+        },
+        "byLabel": "Search Transaction",
+        "byAriaLabel": "Search Transaction",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 7,
+      "tag": "input",
+      "role": "textbox",
+      "label": "Search Transaction",
+      "type": "text",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search Transaction",
+      "placeholder": "Search",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Search Transaction"
+        },
+        "byLabel": "Search Transaction",
+        "byAriaLabel": "Search Transaction",
+        "byPlaceholder": "Search",
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 8,
+      "tag": "oj-button",
+      "role": "",
+      "label": "99+",
+      "type": "",
+      "id": "mailbox-holder",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "99+",
+      "text": "99+",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "99+",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "99+",
+        "byId": "mailbox-holder",
+        "byName": null
+      }
+    },
+    {
+      "index": 9,
+      "tag": "button",
+      "role": "button",
+      "label": "99+",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "99+",
+      "placeholder": "",
+      "title": "",
+      "text": "99+",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "99+"
+        },
+        "byLabel": "99+",
+        "byAriaLabel": "99+",
+        "byPlaceholder": null,
+        "byText": "99+",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 10,
+      "tag": "button",
+      "role": "button",
+      "label": "CM",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "CM",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "CM"
+        },
+        "byLabel": "CM",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "CM",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 11,
+      "tag": "oj-avatar",
+      "role": "img",
+      "label": "corpmaker2",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "corpmaker2",
+      "placeholder": "",
+      "title": "corpmaker2",
+      "text": "CM",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "img",
+          "name": "corpmaker2"
+        },
+        "byLabel": "corpmaker2",
+        "byAriaLabel": "corpmaker2",
+        "byPlaceholder": null,
+        "byText": "CM",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 12,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Back",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 13,
+      "tag": "button",
+      "role": "button",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Back"
+        },
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 14,
+      "tag": "oj-navigation-list",
+      "role": "tablist",
+      "label": "View Claims Screens",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "View Claims Screens",
+      "placeholder": "",
+      "title": "",
+      "text": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tablist",
+          "name": "View Claims Screens"
+        },
+        "byLabel": "View Claims Screens",
+        "byAriaLabel": "View Claims Screens",
+        "byPlaceholder": null,
+        "byText": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 15,
+      "tag": "div",
+      "role": "presentation",
+      "label": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages"
+        },
+        "byLabel": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 16,
+      "tag": "div",
+      "role": "presentation",
+      "label": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages"
+        },
+        "byLabel": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 17,
+      "tag": "ul",
+      "role": "presentation",
+      "label": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+      "type": "",
+      "id": "ui-id-893",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages"
+        },
+        "byLabel": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "View Claim Details\nAttached Documents\nCharges and Taxes\nSWIFT Messages",
+        "byId": "ui-id-893",
+        "byName": null
+      }
+    },
+    {
+      "index": 18,
+      "tag": "li",
+      "role": "presentation",
+      "label": "View Claim Details",
+      "type": "",
+      "id": "main",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "View Claim Details",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "View Claim Details"
+        },
+        "byLabel": "View Claim Details",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "View Claim Details",
+        "byId": "main",
+        "byName": null
+      }
+    },
+    {
+      "index": 19,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for View Claim Details",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for View Claim Details",
+      "text": "View Claim Details",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for View Claim Details"
+        },
+        "byLabel": "Click here for View Claim Details",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "View Claim Details",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 20,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Attached Documents",
+      "type": "",
+      "id": "attachedDocs",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Attached Documents",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Attached Documents"
+        },
+        "byLabel": "Attached Documents",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Attached Documents",
+        "byId": "attachedDocs",
+        "byName": null
+      }
+    },
+    {
+      "index": 21,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for Attached Documents",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for Attached Documents",
+      "text": "Attached Documents",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for Attached Documents"
+        },
+        "byLabel": "Click here for Attached Documents",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Attached Documents",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 22,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Charges and Taxes",
+      "type": "",
+      "id": "charges",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Charges and Taxes",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Charges and Taxes"
+        },
+        "byLabel": "Charges and Taxes",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Charges and Taxes",
+        "byId": "charges",
+        "byName": null
+      }
+    },
+    {
+      "index": 23,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for Charges and Taxes",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for Charges and Taxes",
+      "text": "Charges and Taxes",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for Charges and Taxes"
+        },
+        "byLabel": "Click here for Charges and Taxes",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Charges and Taxes",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 24,
+      "tag": "li",
+      "role": "presentation",
+      "label": "SWIFT Messages",
+      "type": "",
+      "id": "viewSwiftMessages",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "SWIFT Messages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "SWIFT Messages"
+        },
+        "byLabel": "SWIFT Messages",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "SWIFT Messages",
+        "byId": "viewSwiftMessages",
+        "byName": null
+      }
+    },
+    {
+      "index": 25,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for SWIFT Messages",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for SWIFT Messages",
+      "text": "SWIFT Messages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for SWIFT Messages"
+        },
+        "byLabel": "Click here for SWIFT Messages",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "SWIFT Messages",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 26,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 27,
+      "tag": "button",
+      "role": "button",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Back",
+      "placeholder": "",
+      "title": "",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Back"
+        },
+        "byLabel": "Back",
+        "byAriaLabel": "Back",
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    }
+  ]
+}

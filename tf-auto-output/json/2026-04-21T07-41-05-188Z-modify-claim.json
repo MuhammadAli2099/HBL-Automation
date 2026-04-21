@@ -1,0 +1,900 @@
+{
+  "capturedAt": "2026-04-21T07:41:07.356Z",
+  "title": "Modify Claim - HBL",
+  "url": "http://172.20.3.113:7777/home.html?ojr=initiate-claim-modify%3Bmodule%3Dguarantee",
+  "screenName": "Modify Claim",
+  "fieldCount": 33,
+  "fields": [
+    {
+      "index": 0,
+      "tag": "a",
+      "role": "link",
+      "label": "Skip to main content",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Skip to main content",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "link",
+          "name": "Skip to main content"
+        },
+        "byLabel": "Skip to main content",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Skip to main content",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 1,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Toggle Menu",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Toggle Menu",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Toggle Menu",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "role": "button",
+      "label": "Open Menu",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Open Menu",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Open Menu"
+        },
+        "byLabel": "Open Menu",
+        "byAriaLabel": "Open Menu",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 3,
+      "tag": "a",
+      "role": "link",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 4,
+      "tag": "div",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "searchInputContainer_headerSearch",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "searchInputContainer_headerSearch",
+        "byName": null
+      }
+    },
+    {
+      "index": 5,
+      "tag": "span",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 6,
+      "tag": "div",
+      "role": "combobox",
+      "label": "Search Transaction",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search Transaction",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "combobox",
+          "name": "Search Transaction"
+        },
+        "byLabel": "Search Transaction",
+        "byAriaLabel": "Search Transaction",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 7,
+      "tag": "input",
+      "role": "textbox",
+      "label": "Search Transaction",
+      "type": "text",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search Transaction",
+      "placeholder": "Search",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Search Transaction"
+        },
+        "byLabel": "Search Transaction",
+        "byAriaLabel": "Search Transaction",
+        "byPlaceholder": "Search",
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 8,
+      "tag": "oj-button",
+      "role": "",
+      "label": "99+",
+      "type": "",
+      "id": "mailbox-holder",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "99+",
+      "text": "99+",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "99+",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "99+",
+        "byId": "mailbox-holder",
+        "byName": null
+      }
+    },
+    {
+      "index": 9,
+      "tag": "button",
+      "role": "button",
+      "label": "99+",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "99+",
+      "placeholder": "",
+      "title": "",
+      "text": "99+",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "99+"
+        },
+        "byLabel": "99+",
+        "byAriaLabel": "99+",
+        "byPlaceholder": null,
+        "byText": "99+",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 10,
+      "tag": "button",
+      "role": "button",
+      "label": "CM",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "CM",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "CM"
+        },
+        "byLabel": "CM",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "CM",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 11,
+      "tag": "oj-avatar",
+      "role": "img",
+      "label": "corpmaker2",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "corpmaker2",
+      "placeholder": "",
+      "title": "corpmaker2",
+      "text": "CM",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "img",
+          "name": "corpmaker2"
+        },
+        "byLabel": "corpmaker2",
+        "byAriaLabel": "corpmaker2",
+        "byPlaceholder": null,
+        "byText": "CM",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 12,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Back",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 13,
+      "tag": "button",
+      "role": "button",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Back"
+        },
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 14,
+      "tag": "oj-navigation-list",
+      "role": "tablist",
+      "label": "Modify Claim Screen",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Modify Claim Screen",
+      "placeholder": "",
+      "title": "",
+      "text": "Claim Response\nAttachments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tablist",
+          "name": "Modify Claim Screen"
+        },
+        "byLabel": "Modify Claim Screen",
+        "byAriaLabel": "Modify Claim Screen",
+        "byPlaceholder": null,
+        "byText": "Claim Response\nAttachments",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 15,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Claim Response\nAttachments",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Claim Response\nAttachments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Claim Response\nAttachments"
+        },
+        "byLabel": "Claim Response\nAttachments",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Claim Response\nAttachments",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 16,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Claim Response\nAttachments",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Claim Response\nAttachments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Claim Response\nAttachments"
+        },
+        "byLabel": "Claim Response\nAttachments",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Claim Response\nAttachments",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 17,
+      "tag": "ul",
+      "role": "presentation",
+      "label": "Claim Response\nAttachments",
+      "type": "",
+      "id": "ui-id-915",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Claim Response\nAttachments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Claim Response\nAttachments"
+        },
+        "byLabel": "Claim Response\nAttachments",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Claim Response\nAttachments",
+        "byId": "ui-id-915",
+        "byName": null
+      }
+    },
+    {
+      "index": 18,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Claim Response",
+      "type": "",
+      "id": "view-claim-response",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Claim Response",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Claim Response"
+        },
+        "byLabel": "Claim Response",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Claim Response",
+        "byId": "view-claim-response",
+        "byName": null
+      }
+    },
+    {
+      "index": 19,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for Claim Response",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for Claim Response",
+      "text": "Claim Response",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for Claim Response"
+        },
+        "byLabel": "Click here for Claim Response",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Claim Response",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 20,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Attachments",
+      "type": "",
+      "id": "claim-modify-attachment-details",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Attachments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Attachments"
+        },
+        "byLabel": "Attachments",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Attachments",
+        "byId": "claim-modify-attachment-details",
+        "byName": null
+      }
+    },
+    {
+      "index": 21,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for Attachments",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for Attachments",
+      "text": "Attachments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for Attachments"
+        },
+        "byLabel": "Click here for Attachments",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Attachments",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 22,
+      "tag": "oj-select-one",
+      "role": "",
+      "label": "[[nls.pleaseSelect]]",
+      "type": "",
+      "id": "ClaimResponse2480987",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "[[nls.pleaseSelect]]",
+      "title": "",
+      "text": "Claim Response\nPlease Select\nRequired",
+      "required": true,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "[[nls.pleaseSelect]]",
+        "byAriaLabel": null,
+        "byPlaceholder": "[[nls.pleaseSelect]]",
+        "byText": "Claim Response\nPlease Select\nRequired",
+        "byId": "ClaimResponse2480987",
+        "byName": null
+      }
+    },
+    {
+      "index": 23,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Claim Response\nPlease Select",
+      "type": "",
+      "id": "ui-id-930",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Claim Response\nPlease Select",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Claim Response\nPlease Select"
+        },
+        "byLabel": "Claim Response\nPlease Select",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Claim Response\nPlease Select",
+        "byId": "ui-id-930",
+        "byName": null
+      }
+    },
+    {
+      "index": 24,
+      "tag": "div",
+      "role": "combobox",
+      "label": "Claim Response",
+      "type": "",
+      "id": "oj-select-choice-ClaimResponse2480987",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Claim Response\nPlease Select",
+      "required": true,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "combobox",
+          "name": "Claim Response"
+        },
+        "byLabel": "Claim Response",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Claim Response\nPlease Select",
+        "byId": "oj-select-choice-ClaimResponse2480987",
+        "byName": null
+      }
+    },
+    {
+      "index": 25,
+      "tag": "a",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 26,
+      "tag": "oj-text-area",
+      "role": "",
+      "label": "Instruction",
+      "type": "",
+      "id": "Instruction954087",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Instruction",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Instruction",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Instruction",
+        "byId": "Instruction954087",
+        "byName": null
+      }
+    },
+    {
+      "index": 27,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Instruction",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Instruction",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Instruction"
+        },
+        "byLabel": "Instruction",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Instruction",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 28,
+      "tag": "textarea",
+      "role": "textbox",
+      "label": "Instruction",
+      "type": "",
+      "id": "Instruction954087|input",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Instruction"
+        },
+        "byLabel": "Instruction",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "Instruction954087|input",
+        "byName": null
+      }
+    },
+    {
+      "index": 29,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Next",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Next",
+      "required": false,
+      "readonly": false,
+      "disabled": true,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Next",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Next",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 30,
+      "tag": "button",
+      "role": "button",
+      "label": "Next",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Next",
+      "placeholder": "",
+      "title": "",
+      "text": "Next",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Next"
+        },
+        "byLabel": "Next",
+        "byAriaLabel": "Next",
+        "byPlaceholder": null,
+        "byText": "Next",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 31,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Cancel",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Cancel",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Cancel",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Cancel",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 32,
+      "tag": "button",
+      "role": "button",
+      "label": "Cancel",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Cancel",
+      "placeholder": "",
+      "title": "",
+      "text": "Cancel",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Cancel"
+        },
+        "byLabel": "Cancel",
+        "byAriaLabel": "Cancel",
+        "byPlaceholder": null,
+        "byText": "Cancel",
+        "byId": null,
+        "byName": null
+      }
+    }
+  ]
+}

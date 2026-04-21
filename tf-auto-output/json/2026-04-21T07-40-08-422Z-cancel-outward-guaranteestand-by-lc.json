@@ -1,0 +1,900 @@
+{
+  "capturedAt": "2026-04-21T07:40:11.069Z",
+  "title": "Cancel Outward Guarantee/Stand By LC - HBL",
+  "url": "http://172.20.3.113:7777/home.html?ojr=cancel-bank-guarantee%3Bmodule%3Dguarantee",
+  "screenName": "Cancel Outward Guarantee/Stand By LC",
+  "fieldCount": 33,
+  "fields": [
+    {
+      "index": 0,
+      "tag": "a",
+      "role": "link",
+      "label": "Skip to main content",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Skip to main content",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "link",
+          "name": "Skip to main content"
+        },
+        "byLabel": "Skip to main content",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Skip to main content",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 1,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Toggle Menu",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Toggle Menu",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Toggle Menu",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "role": "button",
+      "label": "Open Menu",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Open Menu",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Open Menu"
+        },
+        "byLabel": "Open Menu",
+        "byAriaLabel": "Open Menu",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 3,
+      "tag": "a",
+      "role": "link",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 4,
+      "tag": "div",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "searchInputContainer_headerSearch",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "searchInputContainer_headerSearch",
+        "byName": null
+      }
+    },
+    {
+      "index": 5,
+      "tag": "span",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 6,
+      "tag": "div",
+      "role": "combobox",
+      "label": "Search Transaction",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search Transaction",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "combobox",
+          "name": "Search Transaction"
+        },
+        "byLabel": "Search Transaction",
+        "byAriaLabel": "Search Transaction",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 7,
+      "tag": "input",
+      "role": "textbox",
+      "label": "Search Transaction",
+      "type": "text",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search Transaction",
+      "placeholder": "Search",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Search Transaction"
+        },
+        "byLabel": "Search Transaction",
+        "byAriaLabel": "Search Transaction",
+        "byPlaceholder": "Search",
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 8,
+      "tag": "oj-button",
+      "role": "",
+      "label": "99+",
+      "type": "",
+      "id": "mailbox-holder",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "99+",
+      "text": "99+",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "99+",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "99+",
+        "byId": "mailbox-holder",
+        "byName": null
+      }
+    },
+    {
+      "index": 9,
+      "tag": "button",
+      "role": "button",
+      "label": "99+",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "99+",
+      "placeholder": "",
+      "title": "",
+      "text": "99+",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "99+"
+        },
+        "byLabel": "99+",
+        "byAriaLabel": "99+",
+        "byPlaceholder": null,
+        "byText": "99+",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 10,
+      "tag": "button",
+      "role": "button",
+      "label": "CM",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "CM",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "CM"
+        },
+        "byLabel": "CM",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "CM",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 11,
+      "tag": "oj-avatar",
+      "role": "img",
+      "label": "corpmaker2",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "corpmaker2",
+      "placeholder": "",
+      "title": "corpmaker2",
+      "text": "CM",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "img",
+          "name": "corpmaker2"
+        },
+        "byLabel": "corpmaker2",
+        "byAriaLabel": "corpmaker2",
+        "byPlaceholder": null,
+        "byText": "CM",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 12,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Back",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 13,
+      "tag": "button",
+      "role": "button",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Back"
+        },
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 14,
+      "tag": "oj-navigation-list",
+      "role": "tablist",
+      "label": "Initiate Screens",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Initiate Screens",
+      "placeholder": "",
+      "title": "",
+      "text": "Outward Guarantee Details\nAttachments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tablist",
+          "name": "Initiate Screens"
+        },
+        "byLabel": "Initiate Screens",
+        "byAriaLabel": "Initiate Screens",
+        "byPlaceholder": null,
+        "byText": "Outward Guarantee Details\nAttachments",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 15,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Outward Guarantee Details\nAttachments",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Outward Guarantee Details\nAttachments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Outward Guarantee Details\nAttachments"
+        },
+        "byLabel": "Outward Guarantee Details\nAttachments",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Outward Guarantee Details\nAttachments",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 16,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Outward Guarantee Details\nAttachments",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Outward Guarantee Details\nAttachments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Outward Guarantee Details\nAttachments"
+        },
+        "byLabel": "Outward Guarantee Details\nAttachments",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Outward Guarantee Details\nAttachments",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 17,
+      "tag": "ul",
+      "role": "presentation",
+      "label": "Outward Guarantee Details\nAttachments",
+      "type": "",
+      "id": "ui-id-789",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Outward Guarantee Details\nAttachments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Outward Guarantee Details\nAttachments"
+        },
+        "byLabel": "Outward Guarantee Details\nAttachments",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Outward Guarantee Details\nAttachments",
+        "byId": "ui-id-789",
+        "byName": null
+      }
+    },
+    {
+      "index": 18,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Outward Guarantee Details",
+      "type": "",
+      "id": "cancel-guarantee-details",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Outward Guarantee Details",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Outward Guarantee Details"
+        },
+        "byLabel": "Outward Guarantee Details",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Outward Guarantee Details",
+        "byId": "cancel-guarantee-details",
+        "byName": null
+      }
+    },
+    {
+      "index": 19,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for Outward Guarantee Details",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for Outward Guarantee Details",
+      "text": "Outward Guarantee Details",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for Outward Guarantee Details"
+        },
+        "byLabel": "Click here for Outward Guarantee Details",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Outward Guarantee Details",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 20,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Attachments",
+      "type": "",
+      "id": "cancel-guarantee-attachment-details",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Attachments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Attachments"
+        },
+        "byLabel": "Attachments",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Attachments",
+        "byId": "cancel-guarantee-attachment-details",
+        "byName": null
+      }
+    },
+    {
+      "index": 21,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for Attachments",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for Attachments",
+      "text": "Attachments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for Attachments"
+        },
+        "byLabel": "Click here for Attachments",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Attachments",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 22,
+      "tag": "oj-select-one",
+      "role": "",
+      "label": "[[nls.pleaseSelect]]",
+      "type": "",
+      "id": "LookupGuaranteeReferenceNo5455575",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "[[nls.pleaseSelect]]",
+      "title": "",
+      "text": "Lookup Guarantee Reference No\nPlease Select\nRequired",
+      "required": true,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "[[nls.pleaseSelect]]",
+        "byAriaLabel": null,
+        "byPlaceholder": "[[nls.pleaseSelect]]",
+        "byText": "Lookup Guarantee Reference No\nPlease Select\nRequired",
+        "byId": "LookupGuaranteeReferenceNo5455575",
+        "byName": null
+      }
+    },
+    {
+      "index": 23,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Lookup Guarantee Reference No\nPlease Select",
+      "type": "",
+      "id": "ui-id-796",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Lookup Guarantee Reference No\nPlease Select",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Lookup Guarantee Reference No\nPlease Select"
+        },
+        "byLabel": "Lookup Guarantee Reference No\nPlease Select",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Lookup Guarantee Reference No\nPlease Select",
+        "byId": "ui-id-796",
+        "byName": null
+      }
+    },
+    {
+      "index": 24,
+      "tag": "div",
+      "role": "combobox",
+      "label": "Lookup Guarantee Reference No",
+      "type": "",
+      "id": "oj-select-choice-LookupGuaranteeReferenceNo5455575",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Lookup Guarantee Reference No\nPlease Select",
+      "required": true,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "combobox",
+          "name": "Lookup Guarantee Reference No"
+        },
+        "byLabel": "Lookup Guarantee Reference No",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Lookup Guarantee Reference No\nPlease Select",
+        "byId": "oj-select-choice-LookupGuaranteeReferenceNo5455575",
+        "byName": null
+      }
+    },
+    {
+      "index": 25,
+      "tag": "a",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 26,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Verify",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Verify",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Verify",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Verify",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 27,
+      "tag": "button",
+      "role": "button",
+      "label": "Verify",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Verify",
+      "placeholder": "",
+      "title": "",
+      "text": "Verify",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Verify"
+        },
+        "byLabel": "Verify",
+        "byAriaLabel": "Verify",
+        "byPlaceholder": null,
+        "byText": "Verify",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 28,
+      "tag": "a",
+      "role": "link",
+      "label": "Advanced Lookup",
+      "type": "",
+      "id": "AdvancedLookup6538020",
+      "name": "",
+      "ariaLabel": "Advanced Lookup",
+      "placeholder": "",
+      "title": "Advanced Lookup",
+      "text": "Advanced Lookup",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "link",
+          "name": "Advanced Lookup"
+        },
+        "byLabel": "Advanced Lookup",
+        "byAriaLabel": "Advanced Lookup",
+        "byPlaceholder": null,
+        "byText": "Advanced Lookup",
+        "byId": "AdvancedLookup6538020",
+        "byName": null
+      }
+    },
+    {
+      "index": 29,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Next",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Next",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Next",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Next",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 30,
+      "tag": "button",
+      "role": "button",
+      "label": "Next",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Next",
+      "placeholder": "",
+      "title": "",
+      "text": "Next",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Next"
+        },
+        "byLabel": "Next",
+        "byAriaLabel": "Next",
+        "byPlaceholder": null,
+        "byText": "Next",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 31,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Cancel",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Cancel",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Cancel",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Cancel",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 32,
+      "tag": "button",
+      "role": "button",
+      "label": "Cancel",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Cancel",
+      "placeholder": "",
+      "title": "",
+      "text": "Cancel",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Cancel"
+        },
+        "byLabel": "Cancel",
+        "byAriaLabel": "Cancel",
+        "byPlaceholder": null,
+        "byText": "Cancel",
+        "byId": null,
+        "byName": null
+      }
+    }
+  ]
+}

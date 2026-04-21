@@ -1,0 +1,847 @@
+{
+  "capturedAt": "2026-04-21T07:43:11.821Z",
+  "title": "List Finance Requests - HBL",
+  "url": "http://172.20.3.113:7777/home.html?ojr=list-finance-requests%3Bmodule%3Dfinancing",
+  "screenName": "List Finance Requests",
+  "fieldCount": 31,
+  "fields": [
+    {
+      "index": 0,
+      "tag": "a",
+      "role": "link",
+      "label": "Skip to main content",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Skip to main content",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "link",
+          "name": "Skip to main content"
+        },
+        "byLabel": "Skip to main content",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Skip to main content",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 1,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Toggle Menu",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Toggle Menu",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Toggle Menu",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "role": "button",
+      "label": "Open Menu",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Open Menu",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Open Menu"
+        },
+        "byLabel": "Open Menu",
+        "byAriaLabel": "Open Menu",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 3,
+      "tag": "a",
+      "role": "link",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 4,
+      "tag": "div",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "searchInputContainer_headerSearch",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "searchInputContainer_headerSearch",
+        "byName": null
+      }
+    },
+    {
+      "index": 5,
+      "tag": "span",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 6,
+      "tag": "div",
+      "role": "combobox",
+      "label": "Search Transaction",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search Transaction",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "combobox",
+          "name": "Search Transaction"
+        },
+        "byLabel": "Search Transaction",
+        "byAriaLabel": "Search Transaction",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 7,
+      "tag": "input",
+      "role": "textbox",
+      "label": "Search Transaction",
+      "type": "text",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search Transaction",
+      "placeholder": "Search",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Search Transaction"
+        },
+        "byLabel": "Search Transaction",
+        "byAriaLabel": "Search Transaction",
+        "byPlaceholder": "Search",
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 8,
+      "tag": "oj-button",
+      "role": "",
+      "label": "99+",
+      "type": "",
+      "id": "mailbox-holder",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "99+",
+      "text": "99+",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "99+",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "99+",
+        "byId": "mailbox-holder",
+        "byName": null
+      }
+    },
+    {
+      "index": 9,
+      "tag": "button",
+      "role": "button",
+      "label": "99+",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "99+",
+      "placeholder": "",
+      "title": "",
+      "text": "99+",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "99+"
+        },
+        "byLabel": "99+",
+        "byAriaLabel": "99+",
+        "byPlaceholder": null,
+        "byText": "99+",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 10,
+      "tag": "button",
+      "role": "button",
+      "label": "CM",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "CM",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "CM"
+        },
+        "byLabel": "CM",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "CM",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 11,
+      "tag": "oj-avatar",
+      "role": "img",
+      "label": "corpmaker2",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "corpmaker2",
+      "placeholder": "",
+      "title": "corpmaker2",
+      "text": "CM",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "img",
+          "name": "corpmaker2"
+        },
+        "byLabel": "corpmaker2",
+        "byAriaLabel": "corpmaker2",
+        "byPlaceholder": null,
+        "byText": "CM",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 12,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Back",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 13,
+      "tag": "button",
+      "role": "button",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Back"
+        },
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 14,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Related Party\nJZNNZI ZO AZNZM ULI KZKVI YLCVH ZMW",
+      "type": "",
+      "id": "ui-id-1042",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Related Party\nJZNNZI ZO AZNZM ULI KZKVI YLCVH ZMW",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Related Party\nJZNNZI ZO AZNZM ULI KZKVI YLCVH ZMW"
+        },
+        "byLabel": "Related Party\nJZNNZI ZO AZNZM ULI KZKVI YLCVH ZMW",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Related Party\nJZNNZI ZO AZNZM ULI KZKVI YLCVH ZMW",
+        "byId": "ui-id-1042",
+        "byName": null
+      }
+    },
+    {
+      "index": 15,
+      "tag": "span",
+      "role": "button",
+      "label": "JZNNZI ZO AZNZM ULI KZKVI YLCVH ZMW remove",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "JZNNZI ZO AZNZM ULI KZKVI YLCVH ZMW remove",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "JZNNZI ZO AZNZM ULI KZKVI YLCVH ZMW remove"
+        },
+        "byLabel": "JZNNZI ZO AZNZM ULI KZKVI YLCVH ZMW remove",
+        "byAriaLabel": "JZNNZI ZO AZNZM ULI KZKVI YLCVH ZMW remove",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 16,
+      "tag": "input",
+      "role": "combobox",
+      "label": "Related Party",
+      "type": "text",
+      "id": "RelatedParty454266|input",
+      "name": "",
+      "ariaLabel": "Related Party",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "combobox",
+          "name": "Related Party"
+        },
+        "byLabel": "Related Party",
+        "byAriaLabel": "Related Party",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "RelatedParty454266|input",
+        "byName": null
+      }
+    },
+    {
+      "index": 17,
+      "tag": "a",
+      "role": "link",
+      "label": "Search",
+      "type": "",
+      "id": "Go7769393",
+      "name": "",
+      "ariaLabel": "Search",
+      "placeholder": "",
+      "title": "Search",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "link",
+          "name": "Search"
+        },
+        "byLabel": "Search",
+        "byAriaLabel": "Search",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "Go7769393",
+        "byName": null
+      }
+    },
+    {
+      "index": 18,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Filters",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Filters",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Filters",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Filters",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 19,
+      "tag": "button",
+      "role": "button",
+      "label": "Filters",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Filters",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Filters"
+        },
+        "byLabel": "Filters",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Filters",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 20,
+      "tag": "button",
+      "role": "button",
+      "label": "Download",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Download",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Download"
+        },
+        "byLabel": "Download",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Download",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 21,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Manage Columns",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Manage Columns",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Manage Columns",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Manage Columns",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 22,
+      "tag": "button",
+      "role": "button",
+      "label": "Manage Columns",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Manage Columns",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Manage Columns"
+        },
+        "byLabel": "Manage Columns",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Manage Columns",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 23,
+      "tag": "oj-input-text",
+      "role": "",
+      "label": "[[nls.filterPlaceHolder]]",
+      "type": "",
+      "id": "filter",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "[[nls.filterPlaceHolder]]",
+      "title": "",
+      "text": "Filter",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "[[nls.filterPlaceHolder]]",
+        "byAriaLabel": null,
+        "byPlaceholder": "[[nls.filterPlaceHolder]]",
+        "byText": "Filter",
+        "byId": "filter",
+        "byName": null
+      }
+    },
+    {
+      "index": 24,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Filter",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Filter",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Filter"
+        },
+        "byLabel": "Filter",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Filter",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 25,
+      "tag": "input",
+      "role": "textbox",
+      "label": "Filter",
+      "type": "text",
+      "id": "filter|input",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Filter"
+        },
+        "byLabel": "Filter",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "filter|input",
+        "byName": null
+      }
+    },
+    {
+      "index": 26,
+      "tag": "a",
+      "role": "link",
+      "label": "Clear",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Clear",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "link",
+          "name": "Clear"
+        },
+        "byLabel": "Clear",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 27,
+      "tag": "table",
+      "role": "application",
+      "label": "Customer Reference Number\n\t\nApplicant Name\n\t\nFinance Amount\n\t\nMaturity Date\n\t\nBeneficiary Name\n\t\nBank Name\n\t\nIssue Date\n\t\nFinance Id\n\t\nFinancing Type\n\t\nApplication Date\n\n\nCUST-REF-7891\n\tDEF Industries\t€100,000.00\t1/15/2026\tLMN Manufacturing GmbH FIN-L\tContinental Commercial Bank\t7/21/2025\tFIN123457\tImport Financing\t7/20/2025\n\nCUST-REF-7891\n\tDEF Industries\t€100,000.00\t1/15/2026\tLMN Manufacturing GmbH FIN-L\tContinental Commercial Bank\t7/21/2025\tFIN123457\tImport Financing\t7/20/2025\nSelect Row",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Customer Reference Number\n\t\nApplicant Name\n\t\nFinance Amount\n\t\nMaturity Date\n\t\nBeneficiary Name\n\t\nBank Name\n\t\nIssue Date\n\t\nFinance Id\n\t\nFinancing Type\n\t\nApplication Date\n\n\nCUST-REF-7891\n\tDEF Industries\t€100,000.00\t1/15/2026\tLMN Manufacturing GmbH FIN-L\tContinental Commercial Bank\t7/21/2025\tFIN123457\tImport Financing\t7/20/2025\n\nCUST-REF-7891\n\tDEF Industries\t€100,000.00\t1/15/2026\tLMN Manufacturing GmbH FIN-L\tContinental Commercial Bank\t7/21/2025\tFIN123457\tImport Financing\t7/20/2025",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "application",
+          "name": "Customer Reference Number\n\t\nApplicant Name\n\t\nFinance Amount\n\t\nMaturity Date\n\t\nBeneficiary Name\n\t\nBank Name\n\t\nIssue Date\n\t\nFinance Id\n\t\nFinancing Type\n\t\nApplication Date\n\n\nCUST-REF-7891\n\tDEF Industries\t€100,000.00\t1/15/2026\tLMN Manufacturing GmbH FIN-L\tContinental Commercial Bank\t7/21/2025\tFIN123457\tImport Financing\t7/20/2025\n\nCUST-REF-7891\n\tDEF Industries\t€100,000.00\t1/15/2026\tLMN Manufacturing GmbH FIN-L\tContinental Commercial Bank\t7/21/2025\tFIN123457\tImport Financing\t7/20/2025\nSelect Row"
+        },
+        "byLabel": "Customer Reference Number\n\t\nApplicant Name\n\t\nFinance Amount\n\t\nMaturity Date\n\t\nBeneficiary Name\n\t\nBank Name\n\t\nIssue Date\n\t\nFinance Id\n\t\nFinancing Type\n\t\nApplication Date\n\n\nCUST-REF-7891\n\tDEF Industries\t€100,000.00\t1/15/2026\tLMN Manufacturing GmbH FIN-L\tContinental Commercial Bank\t7/21/2025\tFIN123457\tImport Financing\t7/20/2025\n\nCUST-REF-7891\n\tDEF Industries\t€100,000.00\t1/15/2026\tLMN Manufacturing GmbH FIN-L\tContinental Commercial Bank\t7/21/2025\tFIN123457\tImport Financing\t7/20/2025\nSelect Row",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Customer Reference Number\n\t\nApplicant Name\n\t\nFinance Amount\n\t\nMaturity Date\n\t\nBeneficiary Name\n\t\nBank Name\n\t\nIssue Date\n\t\nFinance Id\n\t\nFinancing Type\n\t\nApplication Date\n\n\nCUST-REF-7891\n\tDEF Industries\t€100,000.00\t1/15/2026\tLMN Manufacturing GmbH FIN-L\tContinental Commercial Bank\t7/21/2025\tFIN123457\tImport Financing\t7/20/2025\n\nCUST-REF-7891\n\tDEF Industries\t€100,000.00\t1/15/2026\tLMN Manufacturing GmbH FIN-L\tContinental Commercial Bank\t7/21/2025\tFIN123457\tImport Financing\t7/20/2025",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 28,
+      "tag": "a",
+      "role": "link",
+      "label": "CUST-REF-7891",
+      "type": "",
+      "id": "customerReferenceNumber",
+      "name": "",
+      "ariaLabel": "CUST-REF-7891",
+      "placeholder": "",
+      "title": "CUST-REF-7891",
+      "text": "CUST-REF-7891",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "link",
+          "name": "CUST-REF-7891"
+        },
+        "byLabel": "CUST-REF-7891",
+        "byAriaLabel": "CUST-REF-7891",
+        "byPlaceholder": null,
+        "byText": "CUST-REF-7891",
+        "byId": "customerReferenceNumber",
+        "byName": null
+      }
+    },
+    {
+      "index": 29,
+      "tag": "a",
+      "role": "link",
+      "label": "CUST-REF-7891",
+      "type": "",
+      "id": "customerReferenceNumber",
+      "name": "",
+      "ariaLabel": "CUST-REF-7891",
+      "placeholder": "",
+      "title": "CUST-REF-7891",
+      "text": "CUST-REF-7891",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "link",
+          "name": "CUST-REF-7891"
+        },
+        "byLabel": "CUST-REF-7891",
+        "byAriaLabel": "CUST-REF-7891",
+        "byPlaceholder": null,
+        "byText": "CUST-REF-7891",
+        "byId": "customerReferenceNumber",
+        "byName": null
+      }
+    },
+    {
+      "index": 30,
+      "tag": "div",
+      "role": "status",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    }
+  ]
+}

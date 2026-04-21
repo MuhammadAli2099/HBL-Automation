@@ -1,0 +1,1476 @@
+{
+  "capturedAt": "2026-04-21T07:39:46.815Z",
+  "title": "View Outward Guarantee - HBL",
+  "url": "http://172.20.3.113:7777/home.html?ojr=view-bank-guarantee-details%3Bmodule%3Dguarantee",
+  "screenName": "View Outward Guarantee",
+  "fieldCount": 54,
+  "fields": [
+    {
+      "index": 0,
+      "tag": "a",
+      "role": "link",
+      "label": "Skip to main content",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Skip to main content",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "link",
+          "name": "Skip to main content"
+        },
+        "byLabel": "Skip to main content",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Skip to main content",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 1,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Toggle Menu",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Toggle Menu",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Toggle Menu",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "role": "button",
+      "label": "Open Menu",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Open Menu",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Open Menu"
+        },
+        "byLabel": "Open Menu",
+        "byAriaLabel": "Open Menu",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 3,
+      "tag": "a",
+      "role": "link",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 4,
+      "tag": "div",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "searchInputContainer_headerSearch",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": "searchInputContainer_headerSearch",
+        "byName": null
+      }
+    },
+    {
+      "index": 5,
+      "tag": "span",
+      "role": "presentation",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 6,
+      "tag": "div",
+      "role": "combobox",
+      "label": "Search Transaction",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search Transaction",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "combobox",
+          "name": "Search Transaction"
+        },
+        "byLabel": "Search Transaction",
+        "byAriaLabel": "Search Transaction",
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 7,
+      "tag": "input",
+      "role": "textbox",
+      "label": "Search Transaction",
+      "type": "text",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Search Transaction",
+      "placeholder": "Search",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Search Transaction"
+        },
+        "byLabel": "Search Transaction",
+        "byAriaLabel": "Search Transaction",
+        "byPlaceholder": "Search",
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 8,
+      "tag": "oj-button",
+      "role": "",
+      "label": "99+",
+      "type": "",
+      "id": "mailbox-holder",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "99+",
+      "text": "99+",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "99+",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "99+",
+        "byId": "mailbox-holder",
+        "byName": null
+      }
+    },
+    {
+      "index": 9,
+      "tag": "button",
+      "role": "button",
+      "label": "99+",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "99+",
+      "placeholder": "",
+      "title": "",
+      "text": "99+",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "99+"
+        },
+        "byLabel": "99+",
+        "byAriaLabel": "99+",
+        "byPlaceholder": null,
+        "byText": "99+",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 10,
+      "tag": "button",
+      "role": "button",
+      "label": "CM",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "CM",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "CM"
+        },
+        "byLabel": "CM",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "CM",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 11,
+      "tag": "oj-avatar",
+      "role": "img",
+      "label": "corpmaker2",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "corpmaker2",
+      "placeholder": "",
+      "title": "corpmaker2",
+      "text": "CM",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "img",
+          "name": "corpmaker2"
+        },
+        "byLabel": "corpmaker2",
+        "byAriaLabel": "corpmaker2",
+        "byPlaceholder": null,
+        "byText": "CM",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 12,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Back",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 13,
+      "tag": "button",
+      "role": "button",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Back"
+        },
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 14,
+      "tag": "oj-text-area",
+      "role": "",
+      "label": "Guarantee Number\nPK2GUIR211250504",
+      "type": "",
+      "id": "ui-id-725",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Guarantee Number\nPK2GUIR211250504",
+      "required": false,
+      "readonly": true,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Guarantee Number\nPK2GUIR211250504",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Guarantee Number\nPK2GUIR211250504",
+        "byId": "ui-id-725",
+        "byName": null
+      }
+    },
+    {
+      "index": 15,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Guarantee Number\nPK2GUIR211250504",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Guarantee Number\nPK2GUIR211250504",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Guarantee Number\nPK2GUIR211250504"
+        },
+        "byLabel": "Guarantee Number\nPK2GUIR211250504",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Guarantee Number\nPK2GUIR211250504",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 16,
+      "tag": "div",
+      "role": "textbox",
+      "label": "Guarantee Number",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "PK2GUIR211250504",
+      "required": false,
+      "readonly": true,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Guarantee Number"
+        },
+        "byLabel": "Guarantee Number",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "PK2GUIR211250504",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 17,
+      "tag": "oj-text-area",
+      "role": "",
+      "label": "Obdx Reference Number\n13024A38EC91",
+      "type": "",
+      "id": "ui-id-727",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Obdx Reference Number\n13024A38EC91",
+      "required": false,
+      "readonly": true,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Obdx Reference Number\n13024A38EC91",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Obdx Reference Number\n13024A38EC91",
+        "byId": "ui-id-727",
+        "byName": null
+      }
+    },
+    {
+      "index": 18,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Obdx Reference Number\n13024A38EC91",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Obdx Reference Number\n13024A38EC91",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Obdx Reference Number\n13024A38EC91"
+        },
+        "byLabel": "Obdx Reference Number\n13024A38EC91",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Obdx Reference Number\n13024A38EC91",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 19,
+      "tag": "div",
+      "role": "textbox",
+      "label": "Obdx Reference Number",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "13024A38EC91",
+      "required": false,
+      "readonly": true,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Obdx Reference Number"
+        },
+        "byLabel": "Obdx Reference Number",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "13024A38EC91",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 20,
+      "tag": "oj-text-area",
+      "role": "",
+      "label": "Maturity Date\n9/22/2021",
+      "type": "",
+      "id": "ui-id-729",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Maturity Date\n9/22/2021",
+      "required": false,
+      "readonly": true,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Maturity Date\n9/22/2021",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Maturity Date\n9/22/2021",
+        "byId": "ui-id-729",
+        "byName": null
+      }
+    },
+    {
+      "index": 21,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Maturity Date\n9/22/2021",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Maturity Date\n9/22/2021",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Maturity Date\n9/22/2021"
+        },
+        "byLabel": "Maturity Date\n9/22/2021",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Maturity Date\n9/22/2021",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 22,
+      "tag": "div",
+      "role": "textbox",
+      "label": "Maturity Date",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "9/22/2021",
+      "required": false,
+      "readonly": true,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Maturity Date"
+        },
+        "byLabel": "Maturity Date",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "9/22/2021",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 23,
+      "tag": "oj-text-area",
+      "role": "",
+      "label": "Contract Amount\n£9,000.00",
+      "type": "",
+      "id": "ui-id-731",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Contract Amount\n£9,000.00",
+      "required": false,
+      "readonly": true,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Contract Amount\n£9,000.00",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Contract Amount\n£9,000.00",
+        "byId": "ui-id-731",
+        "byName": null
+      }
+    },
+    {
+      "index": 24,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Contract Amount\n£9,000.00",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Contract Amount\n£9,000.00",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Contract Amount\n£9,000.00"
+        },
+        "byLabel": "Contract Amount\n£9,000.00",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Contract Amount\n£9,000.00",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 25,
+      "tag": "div",
+      "role": "textbox",
+      "label": "Contract Amount",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "£9,000.00",
+      "required": false,
+      "readonly": true,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Contract Amount"
+        },
+        "byLabel": "Contract Amount",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "£9,000.00",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 26,
+      "tag": "oj-text-area",
+      "role": "",
+      "label": "Product\nGuarantee Issuance Reissuance upon receiving request",
+      "type": "",
+      "id": "ui-id-733",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Product\nGuarantee Issuance Reissuance upon receiving request",
+      "required": false,
+      "readonly": true,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Product\nGuarantee Issuance Reissuance upon receiving request",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Product\nGuarantee Issuance Reissuance upon receiving request",
+        "byId": "ui-id-733",
+        "byName": null
+      }
+    },
+    {
+      "index": 27,
+      "tag": "div",
+      "role": "presentation",
+      "label": "Product\nGuarantee Issuance Reissuance upon receiving request",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Product\nGuarantee Issuance Reissuance upon receiving request",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Product\nGuarantee Issuance Reissuance upon receiving request"
+        },
+        "byLabel": "Product\nGuarantee Issuance Reissuance upon receiving request",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Product\nGuarantee Issuance Reissuance upon receiving request",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 28,
+      "tag": "div",
+      "role": "textbox",
+      "label": "Product",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Guarantee Issuance Reissuance upon receiving request",
+      "required": false,
+      "readonly": true,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "textbox",
+          "name": "Product"
+        },
+        "byLabel": "Product",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Guarantee Issuance Reissuance upon receiving request",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 29,
+      "tag": "a",
+      "role": "link",
+      "label": "Initiate Tracer",
+      "type": "",
+      "id": "InitiateTracer781957",
+      "name": "",
+      "ariaLabel": "Initiate Tracer",
+      "placeholder": "",
+      "title": "Initiate Tracer",
+      "text": "Initiate Tracer",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "link",
+          "name": "Initiate Tracer"
+        },
+        "byLabel": "Initiate Tracer",
+        "byAriaLabel": "Initiate Tracer",
+        "byPlaceholder": null,
+        "byText": "Initiate Tracer",
+        "byId": "InitiateTracer781957",
+        "byName": null
+      }
+    },
+    {
+      "index": 30,
+      "tag": "oj-navigation-list",
+      "role": "tablist",
+      "label": "View Guarantee Screens",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "View Guarantee Screens",
+      "placeholder": "",
+      "title": "",
+      "text": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tablist",
+          "name": "View Guarantee Screens"
+        },
+        "byLabel": "View Guarantee Screens",
+        "byAriaLabel": "View Guarantee Screens",
+        "byPlaceholder": null,
+        "byText": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 31,
+      "tag": "div",
+      "role": "presentation",
+      "label": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages"
+        },
+        "byLabel": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 32,
+      "tag": "div",
+      "role": "presentation",
+      "label": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages"
+        },
+        "byLabel": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 33,
+      "tag": "ul",
+      "role": "presentation",
+      "label": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+      "type": "",
+      "id": "ui-id-736",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages"
+        },
+        "byLabel": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "View Guarantee Details\nAmendments\nAttached Documents\nLinkages\nCharges, Commissions and Taxes\nSWIFT Messages",
+        "byId": "ui-id-736",
+        "byName": null
+      }
+    },
+    {
+      "index": 34,
+      "tag": "li",
+      "role": "presentation",
+      "label": "View Guarantee Details",
+      "type": "",
+      "id": "main",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "View Guarantee Details",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "View Guarantee Details"
+        },
+        "byLabel": "View Guarantee Details",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "View Guarantee Details",
+        "byId": "main",
+        "byName": null
+      }
+    },
+    {
+      "index": 35,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for View Guarantee Details",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for View Guarantee Details",
+      "text": "View Guarantee Details",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for View Guarantee Details"
+        },
+        "byLabel": "Click here for View Guarantee Details",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "View Guarantee Details",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 36,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Amendments",
+      "type": "",
+      "id": "amendments",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Amendments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Amendments"
+        },
+        "byLabel": "Amendments",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Amendments",
+        "byId": "amendments",
+        "byName": null
+      }
+    },
+    {
+      "index": 37,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for Amendments",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for Amendments",
+      "text": "Amendments",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for Amendments"
+        },
+        "byLabel": "Click here for Amendments",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Amendments",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 38,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Attached Documents",
+      "type": "",
+      "id": "attachedDocs",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Attached Documents",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Attached Documents"
+        },
+        "byLabel": "Attached Documents",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Attached Documents",
+        "byId": "attachedDocs",
+        "byName": null
+      }
+    },
+    {
+      "index": 39,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for Attached Documents",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for Attached Documents",
+      "text": "Attached Documents",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for Attached Documents"
+        },
+        "byLabel": "Click here for Attached Documents",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Attached Documents",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 40,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Linkages",
+      "type": "",
+      "id": "linkages",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Linkages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Linkages"
+        },
+        "byLabel": "Linkages",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Linkages",
+        "byId": "linkages",
+        "byName": null
+      }
+    },
+    {
+      "index": 41,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for Linkages",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for Linkages",
+      "text": "Linkages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for Linkages"
+        },
+        "byLabel": "Click here for Linkages",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Linkages",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 42,
+      "tag": "li",
+      "role": "presentation",
+      "label": "Charges, Commissions and Taxes",
+      "type": "",
+      "id": "charges",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Charges, Commissions and Taxes",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "Charges, Commissions and Taxes"
+        },
+        "byLabel": "Charges, Commissions and Taxes",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Charges, Commissions and Taxes",
+        "byId": "charges",
+        "byName": null
+      }
+    },
+    {
+      "index": 43,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for Charges, Commissions and Taxes",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for Charges, Commissions and Taxes",
+      "text": "Charges, Commissions and Taxes",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for Charges, Commissions and Taxes"
+        },
+        "byLabel": "Click here for Charges, Commissions and Taxes",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Charges, Commissions and Taxes",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 44,
+      "tag": "li",
+      "role": "presentation",
+      "label": "SWIFT Messages",
+      "type": "",
+      "id": "viewSwiftMessages",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "SWIFT Messages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "presentation",
+          "name": "SWIFT Messages"
+        },
+        "byLabel": "SWIFT Messages",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "SWIFT Messages",
+        "byId": "viewSwiftMessages",
+        "byName": null
+      }
+    },
+    {
+      "index": 45,
+      "tag": "a",
+      "role": "tab",
+      "label": "Click here for SWIFT Messages",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "Click here for SWIFT Messages",
+      "text": "SWIFT Messages",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "tab",
+          "name": "Click here for SWIFT Messages"
+        },
+        "byLabel": "Click here for SWIFT Messages",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "SWIFT Messages",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 46,
+      "tag": "table",
+      "role": "application",
+      "label": "Account Number\n\t\nContribution Amount for Collateral\n\t\nContribution Percentage\n\nNo data to display.\nSelect Row",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Account Number\n\t\nContribution Amount for Collateral\n\t\nContribution Percentage\n\nNo data to display.",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "application",
+          "name": "Account Number\n\t\nContribution Amount for Collateral\n\t\nContribution Percentage\n\nNo data to display.\nSelect Row"
+        },
+        "byLabel": "Account Number\n\t\nContribution Amount for Collateral\n\t\nContribution Percentage\n\nNo data to display.\nSelect Row",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Account Number\n\t\nContribution Amount for Collateral\n\t\nContribution Percentage\n\nNo data to display.",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 47,
+      "tag": "div",
+      "role": "status",
+      "label": "",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": null,
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": null,
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 48,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Initiate Amendment",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Initiate Amendment",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Initiate Amendment",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Initiate Amendment",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 49,
+      "tag": "button",
+      "role": "button",
+      "label": "Initiate Amendment",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Initiate Amendment",
+      "placeholder": "",
+      "title": "",
+      "text": "Initiate Amendment",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Initiate Amendment"
+        },
+        "byLabel": "Initiate Amendment",
+        "byAriaLabel": "Initiate Amendment",
+        "byPlaceholder": null,
+        "byText": "Initiate Amendment",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 50,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Copy and Initiate",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Copy and Initiate",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Copy and Initiate",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Copy and Initiate",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 51,
+      "tag": "button",
+      "role": "button",
+      "label": "Copy and Initiate",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Copy and Initiate",
+      "placeholder": "",
+      "title": "",
+      "text": "Copy and Initiate",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Copy and Initiate"
+        },
+        "byLabel": "Copy and Initiate",
+        "byAriaLabel": "Copy and Initiate",
+        "byPlaceholder": null,
+        "byText": "Copy and Initiate",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 52,
+      "tag": "oj-button",
+      "role": "",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "",
+      "placeholder": "",
+      "title": "",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": null,
+        "byLabel": "Back",
+        "byAriaLabel": null,
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    },
+    {
+      "index": 53,
+      "tag": "button",
+      "role": "button",
+      "label": "Back",
+      "type": "",
+      "id": "",
+      "name": "",
+      "ariaLabel": "Back",
+      "placeholder": "",
+      "title": "",
+      "text": "Back",
+      "required": false,
+      "readonly": false,
+      "disabled": false,
+      "locatorHints": {
+        "byRoleAndName": {
+          "role": "button",
+          "name": "Back"
+        },
+        "byLabel": "Back",
+        "byAriaLabel": "Back",
+        "byPlaceholder": null,
+        "byText": "Back",
+        "byId": null,
+        "byName": null
+      }
+    }
+  ]
+}
